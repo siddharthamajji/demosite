@@ -1,180 +1,44 @@
 +++
-title = "Academic: the website designer for Hugo"
-subtitle = "Create a beautifully simple website in under 10 minutes :rocket:"
+title = "Supply Chain in day-day life"
+subtitle = "Role of Supply Chain to bring your favourite biscuits on your table"
 
 date = 2016-04-20T00:00:00
 lastmod = 2018-01-13T00:00:00
-draft = false
+draft = true
 
-# Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
+# Authors. Comma separated list, e.g. `["Siddhartha Majji"]`.
 authors = []
 
-tags = ["Academic"]
-summary = "Create a beautifully simple website or blog in under 10 minutes."
+tags = ["Supplychain"]
+summary = "Role of Supply Chain to bring your favourite biscuits on your table"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your project's folder. 
 [image]
   # Caption (optional)
-  caption = "Image credit: [**Unsplash**](https://unsplash.com/photos/CpkOjOcXdUY)"
+  #caption = "Image credit: [**Unsplash**](https://unsplash.com/photos/CpkOjOcXdUY)"
 
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
   focal_point = ""
 
-[[gallery_item]]
-album = "1"
-image = "https://raw.githubusercontent.com/gcushen/hugo-academic/master/images/theme-default.png"
-caption = "Default"
 
-[[gallery_item]]
-album = "1"
-image = "https://raw.githubusercontent.com/gcushen/hugo-academic/master/images/theme-ocean.png"
-caption = "Ocean"
+Curious to know the process behind how your favourite biscuit landed on your table? So, here’s how….. basically there are 3 things that we manage in a supply chain. The product, the Cash and the Information. But in order to get that biscuit, many stake holders with in the supply chain manage a set of complex activities. Lets’ go in detail about how the supply chain is playing a crucial role in biscuit manufacturing. Lets’s talk about the product first, the supplier of the biscuit procures the important raw materials like flour, butter and sugar from their respective suppliers. Then by using these raw materials, and after some processing, the biscuits are made. Once this is made, all the biscuits are made into batches, packed and dispatched from suppliers. Then it reached the distributor, then to the retailer and finally to the customer. Basically the product flow here is from left to right.
 
-[[gallery_item]]
-album = "1"
-image = "https://raw.githubusercontent.com/gcushen/hugo-academic/master/images/theme-forest.png"
-caption = "Forest"
+Now coming to the second part, the Cash. So, wondering how the producer of the biscuit is earning money? It is all the money of the customer. The money which you pay to the retailer or petty shop, for purchasing a biscuit packet, will go to the distributor and then finally reaches the producer or supplier. In this case the flow of cash is from right to left. This is the case with the return of the product as well.
 
-[[gallery_item]]
-album = "1"
-image = "https://raw.githubusercontent.com/gcushen/hugo-academic/master/images/theme-dark.png"
-caption = "Dark"
-
-[[gallery_item]]
-album = "1"
-image = "https://raw.githubusercontent.com/gcushen/hugo-academic/master/images/theme-apogee.png"
-caption = "Apogee"
-
-[[gallery_item]]
-album = "1"
-image = "https://raw.githubusercontent.com/gcushen/hugo-academic/master/images/theme-1950s.png"
-caption = "1950s"
-
-[[gallery_item]]
-album = "1"
-image = "https://raw.githubusercontent.com/gcushen/hugo-academic/master/images/theme-coffee-playfair.png"
-caption = "Coffee theme with Playfair font"
-
-[[gallery_item]]
-album = "1"
-image = "https://raw.githubusercontent.com/gcushen/hugo-academic/master/images/theme-cupcake.png"
-caption = "Cupcake"
-+++
-
-**Academic** makes it easy to create a beautiful website for free using Markdown. Customize anything on your site with widgets, themes, and language packs.
-
-Follow our easy [step by step guide](https://sourcethemes.com/academic/docs/install/) to learn how to build your own free website with Academic. [Check out the personal demo](https://themes.gohugo.io/theme/academic/) or the [business demo](https://sourcethemes.com/academic/) of what you'll get in less than 10 minutes.
-
-- [View the documentation](https://sourcethemes.com/academic/docs/)
-- [Ask a question](http://discuss.gohugo.io/)
-- [Request a feature or report a bug](https://github.com/gcushen/hugo-academic/issues)
-- Updating? View the [Update Guide](https://sourcethemes.com/academic/docs/update/) and [Release Notes](https://sourcethemes.com/academic/updates/)
-- Support development of Academic:
-  - [Donate a coffee](https://paypal.me/cushen)
-  - [Decorate your laptop or journal with an Academic sticker](https://www.redbubble.com/people/neutreno/works/34387919-academic)
-  - [Wear the T-shirt](https://academic.threadless.com/)
-
-[![Screenshot](https://raw.githubusercontent.com/gcushen/hugo-academic/master/academic.png)](https://github.com/gcushen/hugo-academic/)
-
-Key features:
-
-- Easily manage various content including homepage, blog posts, publications, talks, and projects
-- Extensible via **color themes** and **widgets/plugins**
-- Write in [Markdown](https://sourcethemes.com/academic/docs/writing-markdown-latex/) for easy formatting and code highlighting, with [LaTeX](https://en.wikibooks.org/wiki/LaTeX/Mathematics) for mathematical expressions
-- Social/academic network linking, [Google Analytics](https://analytics.google.com), and [Disqus](https://disqus.com) comments
-- Responsive and mobile friendly
-- Simple and refreshing one page design
-- Multilingual and easy to customize
-
-## Color Themes
-
-Academic is available in different color themes and font themes.
-
-{{< gallery >}}
-
-## Ecosystem
-
-**[Academic Admin](https://github.com/sourcethemes/academic-admin):** An admin tool to import publications from BibTeX or import assets for an offline site
-
-## Install
-
-You can choose from one of the following four methods to install:
-
-* one-click install using your web browser (recommended)
-* install on your computer using Git with the Command Prompt/Terminal app
-* install on your computer by downloading the ZIP files
-* install on your computer with RStudio
-
-### Quick install using your web browser
-
-1. [Install Academic with Netlify](https://app.netlify.com/start/deploy?repository=https://github.com/sourcethemes/academic-kickstart)
-    * Netlify will provide you with a customizable URL to access your new site
-2. On GitHub, go to your newly created `academic-kickstart` repository and edit `config.toml` to personalize your site. Shortly after saving the file, your site will automatically update
-3. Read the [Quick Start Guide](https://sourcethemes.com/academic/docs/) to learn how to add Markdown content. For inspiration, refer to the [Markdown content](https://github.com/gcushen/hugo-academic/tree/master/exampleSite) which powers the [Demo](https://themes.gohugo.io/theme/academic/)
-
-### Install with Git
-
-Prerequisites:
-
-* [Download and install Git](https://git-scm.com/downloads)
-* [Download and install Hugo](https://gohugo.io/getting-started/installing/#quick-install)
-
-1. [Fork](https://github.com/sourcethemes/academic-kickstart#fork-destination-box) the *Academic Kickstart* repository and clone your fork with Git: 
-
-        git clone https://github.com/sourcethemes/academic-kickstart.git My_Website
-    
-    *Note that if you forked Academic Kickstart, the above command should be edited to clone your fork, i.e. replace `sourcethemes` with your GitHub username.*
-
-2. Initialize the theme:
-
-        cd My_Website
-        git submodule update --init --recursive
-
-### Install with ZIP
-
-1. [Download](https://github.com/sourcethemes/academic-kickstart/archive/master.zip) and extract *Academic Kickstart*
-2. [Download](https://github.com/gcushen/hugo-academic/archive/master.zip) and extract the *Academic theme* to the `themes/academic/` folder from the above step
-
-### Install with RStudio
-
-[View the guide to installing Academic with RStudio](https://sourcethemes.com/academic/docs/install/#install-with-rstudio)
-
-## Quick start
-
-1. If you installed on your computer, view your new website by running the following command:
-      
-        hugo server
-
-    Now visit [localhost:1313](http://localhost:1313) and your new Academic powered website will appear. Otherwise, if using Netlify, they will provide you with your URL.
-           
-2. Read the [Quick Start Guide](https://sourcethemes.com/academic/docs/) to learn how to add Markdown content, customize your site, and deploy it. For inspiration, refer to the [Markdown content](https://github.com/gcushen/hugo-academic/tree/master/exampleSite) which powers the [Demo](https://themes.gohugo.io/theme/academic/)
-
-3. Build your site by running the `hugo` command. Then [host it for free using Github Pages](https://georgecushen.com/create-your-website-with-hugo/) or Netlify (refer to the first installation method). Alternatively, copy the generated `public/` directory (by FTP, Rsync, etc.) to your production web server (such as a university's hosting service).
+So, in order to go this in a very smooth manner, the main factor, information should flow from one to other seamlessly. So, this is how the supply chain for the biscuit you eat is done.
 
 ## Updating
 
-Feel free to *star* the project on [Github](https://github.com/gcushen/hugo-academic/) to help keep track of updates and check out the [release notes](https://sourcethemes.com/academic/updates) prior to updating your site.
+Feel free to *like* the project on [wordpress](https://wordpress.com/posts/siddharthamajji.wordpress.com) to help keep track of updates and check out the [release notes](https://sourcethemes.com/academic/updates) prior to updating your site.
 
-Before updating the framework, it is recommended to make a backup of your entire website directory (or at least your `themes/academic` directory) and record your current version number.
-
-By default, Academic is installed as a Git submodule which can be updated by running the following command:
-
-```bash
-git submodule update --remote --merge
-```
-
-[Check out the update guide](https://sourcethemes.com/academic/docs/update/) for full instructions and alternative methods.
 
 ## Feedback & Contributing
 
-Please use the [issue tracker](https://github.com/gcushen/hugo-academic/issues) to let me know about any bugs or feature requests, or alternatively make a pull request.
-
-For support, head over to the [Hugo discussion forum](http://discuss.gohugo.io).
+Please give your feedback on my [email](mailto:siddharthamajji@gmail.com) to let me know about any updates or advanced features, or your contributions towards the same
 
 ## License
 
-Copyright 2016-present [George Cushen](https://georgecushen.com).
+Copyright 2018-present [Siddhartha Majji](https://siddharthamajji.com).
 
-Released under the [MIT](https://github.com/gcushen/hugo-academic/blob/master/LICENSE.md) license.

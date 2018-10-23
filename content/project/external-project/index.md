@@ -6,10 +6,10 @@ title = "External Project"
 date = 2016-04-27T00:00:00
 
 # Project summary to display on homepage.
-summary = "An example of linking directly to an external project website using `external_link`."
+summary = "Design of Exhaust Gas Heat Exchanger Using CFD Analysis"
 
 # Tags: can be used for filtering projects.
-# Example: `tags = ["machine-learning", "deep-learning"]`
+# Example: `tags = ["heat exchanger", "CFD analysis"]`
 tags = ["Demo"]
 
 # Optional external URL for project (replaces project detail page).

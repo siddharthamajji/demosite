@@ -65,7 +65,7 @@ enableGitInfo = false
   email = "siddharthamajji@gmail.com"
   address = "Symbiosis Institute of Operations Management, Nashik"
   phone = "9666955112"
-  skype = "echo123"
+  skype = "siddharthamajji"
   telegram = ""
   
 
@@ -246,29 +246,29 @@ enableGitInfo = false
   [[params.social]]
     icon = "envelope"
     icon_pack = "fas"
-    link = "mailto:test@example.org"
+    link = "mailto:siddharthamajji@gmail.com"
+
+  # Link to a PDF of your resume/CV from the About widget.
+  # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
+  [[params.social]]
+    icon = "facebook"
+    icon_pack = "fab"
+    link = "https://www.facebook.com/siddharthamajji"
 
   [[params.social]]
     icon = "twitter"
     icon_pack = "fab"
-    link = "//twitter.com/IamSiddhartha_M"
-
+    link = "//twitter.com/IamSiddhartha_M" 
+    
   [[params.social]]
-    icon = "google-scholar"
-    icon_pack = "ai"
-    link = "https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ"
+    icon = "linkedin"
+    icon_pack = "fab"
+    link = "https://www.linkedin.com/in/siddhartha-majji-060348b1/"
 
   [[params.social]]
     icon = "github"
     icon_pack = "fab"
-    link = "//github.com/gcushen"
-
-  # Link to a PDF of your resume/CV from the About widget.
-  # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-  # [[params.social]]
-  #   icon = "cv"
-  #   icon_pack = "ai"
-  #   link = "files/cv.pdf"
+    link = "//github.com/siddharthamajji"
 
 # Navigation Links
 #   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
@@ -298,10 +298,10 @@ enableGitInfo = false
   url = "#projects"
   weight = 4
 
-[[menu.main]]
-  name = "Tutorials"
-  url = "/tutorial/"
-  weight = 5
+# [[menu.main]]
+#  name = "Tutorials"
+#  url = "/tutorial/"
+#  weight = 5
 
 [[menu.main]]
   name = "Contact"
@@ -310,10 +310,10 @@ enableGitInfo = false
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# [[menu.main]]
-#    name = "CV"
-#    url = "files/cv.pdf"
-#    weight = 7
+[[menu.main]]
+  name = "CV"
+  url = "files/cv.pdf"
+  weight = 7
 
 # Search.
 [params.search]

@@ -1,7 +1,7 @@
 +++
 # Projects widget.
 widget = "projects"
-active = true
+active = false
 date = 2016-04-20T00:00:00
 
 title = "Projects"
@@ -34,8 +34,8 @@ filter_default = 0
   tag = "*"
 
 [[filter]]
-  name = "Deep Learning"
-  tag = "Deep Learning"
+  name = "Increased Efficiency using Heat Exchangers"
+  tag = "Heat Exchanger"
 
 [[filter]]
   name = "Other"
