@@ -35,12 +35,11 @@ date_format = "January 2006"
 
 [[experience]]
   title = "Analyst"
-  company = "Deloitte Support Services"
+  company = "Deloitte"
   company_url = ""
   location = "Hyderabad"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """
-  
+  date_start = "2016-09-25"
+  date_end = "2017-07-18"
+  description = """"""
 
 +++
