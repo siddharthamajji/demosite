@@ -10,9 +10,9 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Artificial Intelligence",
-    "Plantation",
-    "Information Retrieval"
+    "Supply Planning",
+    "Industry 4.0",
+    "Machine Connectivity"
   ]
 
 # List your qualifications (such as academic degrees).
@@ -31,4 +31,4 @@ weight = 5
 
 # Biography
 
-Siddhartha is a scholar at Symbiosis Institute of Operations Management. Need to add some data here!
+Siddhartha is a Process Excellence manager with 4 years of experience in Operations, Supply Chain and Production. Demonstrated success in NPD (new product development) and implementing lean concepts to increase efficiency and production output in manufacturing industry. He has proven ability to drive and motivate a team to accomplish goals.
